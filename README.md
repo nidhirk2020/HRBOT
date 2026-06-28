@@ -153,8 +153,4 @@ How many casual leaves do I get?
 ## .env.example
 GROQ_API_KEY=your_groq_api_key
 
-- Streamlit web interface
-- Chat history
-- Source citations
-- Multi-document support
-- Conversation memory
+
