@@ -150,7 +150,8 @@ How many casual leaves do I get?
 
 ---
 
-## Future Improvements
+## .env.example
+GROQ_API_KEY=your_groq_api_key
 
 - Streamlit web interface
 - Chat history
